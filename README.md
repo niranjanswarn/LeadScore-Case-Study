@@ -32,7 +32,7 @@ Approach
 •	Measure the accuracy of the model.
 
 Details of files 
-•	Lead Score Case Study Logistic+Regression_Manisha & Niranjan.ipynb : The python file showing coding and data analysis
+•	Lead Score Case Study Logistic+Regression.ipynb : The python file showing coding and data analysis
 •	Assignment Subjective Questions_Answered.pdf : Subjective questions answered
 •	Presentation Lead Scoring Assignment.pdf : Final Presentation
 •	Summary Lead Score Assignment.pdf : Summary on what's done in the entire py file
